@@ -1,19 +1,14 @@
-# Installation
+# Step 1
+- Navbar 
+. Created a nevbar with the links to navigate to the components in the website page.
+. Add a humbuger for mobile and medium screen users that is hidden with desktop screen
+# Step 2 
+- Hero Section
+. creaated H1 header with CSS3 and Taiwind styling
+. Added image for the section and posisioned to the left wich only appear in big screen and hidden with mobile and medium screen size
+. Added buttons with green backround and change to to pink when hover over it.
+. Added endorsement logo and allign the to the center.
+# step 3
+- Features
 
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+. created a header and allign center with 
